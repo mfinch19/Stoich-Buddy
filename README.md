@@ -1,1 +1,1 @@
-# Stoich-Buddy
+# StoichBuddy
